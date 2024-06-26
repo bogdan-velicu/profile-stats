@@ -100,7 +100,7 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Expo mobile app using Supabase anonymous auth or Github</tspan><tspan dy="1.2em" x="25">Oauth + Supabase PostgreSQL Realtime and crypto-js library</tspan><tspan dy="1.2em" x="25">for AES symmetric encryption</tspan>
+      <tspan dy="1.2em" x="25">Expo mobile app using Supabase anonymous auth or Github</tspan><tspan dy="1.2em" x="25">Oauth + Supabase PostgreSQL Realtime and crypto-js library</tspan>
     </text>
 
     <g transform="translate(30, 75)">
